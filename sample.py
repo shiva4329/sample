@@ -1,1 +1,1 @@
-print('Welcome to the sample Python script!')
+print(1+1)
